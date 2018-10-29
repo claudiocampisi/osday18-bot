@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "chatbotos2018-executor",
+    "name": "chatbotos2018",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "qd2botgu1j",
+    "module": "bot"
+  }
+}
